@@ -27,4 +27,23 @@ By the end of this project, I am able to:
 ---
 
 ## Repository Structure
+My_First_Portfolio/
+│── README.md
+│── html_basic/
+│ ├── base_index.html
+│ └── index.html
+
+---
+
+## Program Outcome
+After completing this project, I can:
+- Build basic web pages such as personal bios and lists.
+- Write clean and valid HTML confidently.
+- Lay the groundwork for learning CSS and JavaScript.
+
+---
+
+## Author
+**GANZA Clebert Sabin**
+
 
